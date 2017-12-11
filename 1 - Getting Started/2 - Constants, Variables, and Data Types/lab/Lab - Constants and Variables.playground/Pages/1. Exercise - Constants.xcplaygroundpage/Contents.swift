@@ -5,6 +5,7 @@
  */
 
 
+
 /*:
  Now assume you go through and remove friends that aren't active on social media. Update your `friends` constant to a lower number than it currently is.
  */
